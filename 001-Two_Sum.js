@@ -15,3 +15,4 @@ const twoSum = (nums, target) => {
   })
   return results
 }
+// 暴力搜索时间复杂度需要 O(n2), 用HashMap可以减少到O(n)
