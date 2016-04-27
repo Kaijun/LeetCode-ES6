@@ -26,3 +26,5 @@ const addTwoNumbers = (l1, l2) => {
     }
     return result.next
 };
+
+/* result.next is the key? */
